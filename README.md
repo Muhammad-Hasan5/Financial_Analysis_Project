@@ -67,7 +67,7 @@ This project performs a deep dive into revenue, sales, user behavior and financi
 
 **🖥️ Querry**: [userLTV_by_cardtype.sql](/userLTV_by_cardtype.sql) 
 
-**📊 Visualization**: ![User_LTV_by_card_type](/Visualizations/user_LTV_by_cardtype.png)
+**📊 Visualization**: ![User_LTV_by_card_type](/user_LTV_by_cardtype.png)
 
 **Key Findings**:
 - Users having Debit card have highest Life Time Value.
@@ -94,7 +94,7 @@ This project performs a deep dive into revenue, sales, user behavior and financi
 
 **🖥️ Querry**: [transaction_gap.sql](/transaction_gap.sql) 
 
-**📊 Visualization**: ![transaction_gap](/Visualizations/transaction_gap.png)
+**📊 Visualization**: ![transaction_gap](/transaction_gap.png)
 
 **Key Findings**:
 - **High Frequency of Short Gaps**: 
@@ -135,7 +135,7 @@ income bracket.
 
 **🖥️ Querry**: [users_hit_80%_revenue.sql](/users_hit_80%25revenue.sql) 
 
-**📊 Visualization**: ![user_hit_80%_revenue](/Visualizations/user_hit_80_revenue.png)
+**📊 Visualization**: ![user_hit_80%_revenue](/user_hit_80_revenue.png)
 
 **Key Findings**:
 - **Significant Number of Users Exceed 80% Utilization, with a Skew Towards Higher Utilization**:
@@ -159,7 +159,7 @@ income bracket.
 
 **🖥️ Querry**: [creditlimit_vs_totalspend.sql](/cardlimit_vs_totalspend.sql) 
 
-**📊 Visualization**: ![card_limit_vs._total_spend](/Visualizations/cardlimit_vs_totalspend.png)
+**📊 Visualization**: ![card_limit_vs._total_spend](/cardlimit_vs_totalspend.png)
 
 **Key Findings**:
 - There appears to be a general positive correlation between credit_limit and total_spend. Users with 
@@ -182,7 +182,7 @@ Strategic Recommendations:
 
 **🖥️ Querry**: [pareto_analysis.sql](/pareto_analysis.sql) 
 
-**📊 Visualization**: ![pareto_analysis](/Visualizations/pareto_analysis.png)
+**📊 Visualization**: ![pareto_analysis](/pareto_analysis.png)
 
 **Key Findings**:
 - **Strong Positive Correlation between Credit Limit and Total Spend**: 
