@@ -164,14 +164,15 @@ income bracket.
 **Key Findings**:
 - There appears to be a general positive correlation between credit_limit and total_spend. Users with 
   higher credit limits tend to have higher total spending, although there is considerable variance.
-- While there's a positive trend, the relationship isn't perfectly linear. There are instances where 
-  users with similar credit limits have vastly different total spending, and vice versa. This suggests that credit_limit is one of many factors influencing total_spend, but not the sole determinant.
-Strategic Recommendations:
+- While there's a positive trend, the relationship isn't perfectly linear. There are instances where users with similar credit limits have vastly different total
+  spending, and vice versa. This suggests that credit_limit is one of many factors influencing total_spend, but not the sole determinant.
+
 
 **Strategic Recommendation**:
 - **For High Spenders on Moderate Limits**: 
 
     Identify users who consistently spend a high proportion of their current credit limit but do not have the highest limits. Offering them a credit limit increase could unlock even higher spending and improve customer satisfaction.
+  
 - **For High Spenders with Low Limits**:
 
    Explore increasing limits for users with low limits but surprisingly high spending. They might be high-potential customers whose spending is currently capped by their limit.
@@ -185,9 +186,10 @@ Strategic Recommendations:
 **📊 Visualization**: ![pareto_analysis](/pareto_analysis.png)
 
 **Key Findings**:
-- **Strong Positive Correlation between Credit Limit and Total Spend**: 
-
+- **Strong Positive Correlation between Credit Limit and Total Spend**:
+- 
    A strong positive correlation, indicating that users with higher credit limits generally tend to have higher total spending. This suggests that credit limit is a significant driver or enabler of user spending behavior.
+  
 - **Presence of Underutilized High Credit Limits**:
    
    While there's a general trend, there are also users with relatively high credit limits who exhibit moderate to low total spending. This group represents potentially underutilized credit capacity.
@@ -196,6 +198,7 @@ Strategic Recommendations:
 - **Strategically Increase Limits for Engaged Users**:
 
    For highly engaged users who are consistently maximizing their current credit limits and demonstrate good repayment behavior, consider strategically increasing their limits. This can encourage further spending and deepen their engagement, thereby maximizing revenue.
+  
 - **Re-engage Users with Underutilized High Limits**:
 
    Implement targeted campaigns or personalized offers for users with high credit limits but low total spending. This could involve promoting specific card features, offering incentives for increased usage, or conducting surveys to understand barriers to higher spending, aiming to unlock their full spending potential.
